@@ -179,7 +179,8 @@ API 成本也不只取决于模型名称。Astra 模型文档注明，超过 272
 2. [GPT-6 Astra 使用指南](https://developers.openai.com/api/docs/guides/latest-model)：工作流能力、API 接入与参数限制。
 3. [工作区模型可用性](https://learn.chatgpt.com/docs/enterprise/workspace-model-availability)：ChatGPT、Codex 与 API 的权限边界，以及企业启用条件。
 4. [GPT-6.1 Sol 模型规格](https://developers.openai.com/api/docs/models/gpt-6.1-sol)：模型 ID、能力与接口规格。
-
+4. [ChatGPT 官网最新网址与国内访问指南](https://www.chatgpt-desktop.com/blog/guides/chatgpt/chatgpt-official-latest-url-china-gpt-5-6-guide.html)：模型 ID、能力与接口规格。
+   
 此次修订替换了 4 月发布预测、未经证实的性能参数和镜像接入承诺，补充了当前规格、权限检查和费用核对方法。后续文档调整时，以官方最新页面和账户实际显示为准。
 
 选择 ChatGPT 官网中文版或了解 GPT-6 国内使用方式时，第一步是确认入口、权限和模型来源。先选择一项真实但不敏感的任务测试，再决定是否订阅或接入业务；可收藏本文，方便核对官方文档与使用步骤。
