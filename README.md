@@ -4,6 +4,9 @@
 
 **ChatGPT 官网入口是 [chatgpt.com](https://chatgpt.com/)，登录后可直接用中文提问。** 寻找“ChatGPT官网中文版”时，应先区分 OpenAI 官方服务与第三方中文聚合平台：中文界面不代表官方身份，两者的账号、订阅和聊天记录也不互通。国内用户使用前，需要核对服务支持范围、账户权限及平台条款。
 
+**关于 ChatGPT官网国内使用详解可以查看**：[ChatGPT 国内访问完全指南](https://www.codex-china.com/articles/chatgpt-official-entry-domestic-guide-2026)  
+**关于 Codex下载安装配置可以查看**：[ChatGPT&Codex 国内下载安装配置教程](https://www.codex-chinese.com/tutorials/codex-download-install-config-guide-2026)
+
 这篇 **ChatGPT 国内使用指南**将带你确认官方登录入口、开始中文对话、检查 **GPT-6 Astra** 是否可用，并了解功能与费用差异。OpenAI 官方文档已列出 Astra 模型，但具体能否使用，仍取决于你的账户、套餐与工作区权限；开发者则需在 [OpenAI API 平台](https://platform.openai.com/)单独核对项目访问权限。
 
 | 你想解决的问题 | 本文给出的答案 |
@@ -18,6 +21,7 @@
 - **LuckAI Chat**：[https://ai.luckaichat.com](https://ai.luckaichat.com)
 
 按给定资料，这两个入口面向国内直连场景，聚合 GPT、Gemini、Claude、Grok、DeepSeek 等模型，并提供 gpt-image、nano banana、Grok-imagine 等 AI 生图能力。具体模型、额度和服务规则以平台当前页面为准。
+
 
 ## 一、GPT-6 Astra 最新信息：官方文档确认了什么？
 
@@ -43,7 +47,7 @@
 | 难度高、错误代价大的分析或规划 | GPT-6 Astra | 关键结论是否有依据，是否需要人工复核 |
 | 简短问答、格式整理 | 账户中响应快且可用的模型 | 不必仅因模型名称更新就切换 |
 
-以上是任务分配思路，不是官方性能排名。用同一份真实样例和相同验收标准分别试做，比较准确性、完整性、速度和成本；如果模型选择器里没有目标型号，就按当前可见模型完成任务。可对照 [GPT-6.1 Sol 官方模型文档](https://developers.openai.com/api/docs/models/gpt-6.1-sol)，并阅读站内的 [GPT-6.1 Sol 模型详解](/chatgpt/guides/chatgpt-gpt-6-1-sol-china-guide-2026)。
+以上是任务分配思路，不是官方性能排名。用同一份真实样例和相同验收标准分别试做，比较准确性、完整性、速度和成本；如果模型选择器里没有目标型号，就按当前可见模型完成任务。可对照 [GPT-6.1 Sol 官方模型文档](https://developers.openai.com/api/docs/models/gpt-6.1-sol)，并阅读站内的 [GPT-6.1 Sol 模型详解](https://codex-chinese.com/chatgpt/guides/chatgpt-gpt-6-1-sol-china-guide-2026)。
 
 ### 与旧版文章相比，哪些说法需要纠正？
 
@@ -58,7 +62,7 @@
 3. 如果列表中出现 GPT-6 Astra，再按界面提示开始任务；没有出现时，先检查账号和工作区权限。
 4. 用一份非敏感文档测试总结、提取或修改任务，确认实际功能与额度。
 
-地区支持、注册验证和订阅要求应以官方当前页面为准。不要沿用“必须海外手机号”或“提前购买 Plus 就能抢先使用”的旧教程结论，也不要购买所谓官方内测资格。手机和电脑的安装入口可参考 [ChatGPT 官方下载与安装指南](/chatgpt/guides/chatgpt-official-download-windows-mac-iphone-android-2026)。
+地区支持、注册验证和订阅要求应以官方当前页面为准。不要沿用“必须海外手机号”或“提前购买 Plus 就能抢先使用”的旧教程结论，也不要购买所谓官方内测资格。手机和电脑的安装入口可参考 [ChatGPT 官方下载与安装指南](https://codex-chinese.com/chatgpt/guides/chatgpt-official-download-windows-mac-iphone-android-2026)。
 
 对于企业用户，[官方工作区模型权限文档](https://learn.chatgpt.com/docs/enterprise/workspace-model-availability)说明：Astra 初始开放阶段涉及 Daybreak 访问资格，符合条件的工作区还需要管理员启用；上线最初两周，ChatGPT Enterprise 默认关闭 Astra。实际部署时，应同时核对成员角色、产品资格和管理员设置。
 
@@ -135,7 +139,7 @@
 
 如果第一轮结果不合适，可以针对可观察的问题继续追问，例如：“请逐项对照验收标准，指出未满足的地方并只修改这些部分”；或“把结论中的每个数字追溯到原材料，无法对应的删除并标注原因”。这种迭代比笼统地说“再详细一点”更容易收敛。
 
-需要更多角色设定、上下文补充和格式约束示例，可继续阅读 [ChatGPT 提示词工程指南](/chatgpt/guides/chatgpt-prompt-writing-framework)。
+需要更多角色设定、上下文补充和格式约束示例，可继续阅读 [ChatGPT 提示词工程指南](https://www.codex-chinese.com/chatgpt/guides/chatgpt-prompt-writing-framework)。
 
 ## 五、GPT-6 费用、额度与隐私注意事项
 
