@@ -13,16 +13,11 @@
 | 国内第三方入口等同官网吗？ | 不等同，服务主体、账号、计费与数据政策独立 |
 | 买 Plus 就一定能用吗？ | 不能据此保证，需核对套餐、工作区和实际模型列表 |
 
-::: tip 国内直连 AI 综合服务平台
+国内直连 AI 综合服务平台
 - **LazyMan Chat**：[https://lazymanchat.com](https://lazymanchat.com)
 - **LuckAI Chat**：[https://ai.luckaichat.com](https://ai.luckaichat.com)
 
 按给定资料，这两个入口面向国内直连场景，聚合 GPT、Gemini、Claude、Grok、DeepSeek 等模型，并提供 gpt-image、nano banana、Grok-imagine 等 AI 生图能力。具体模型、额度和服务规则以平台当前页面为准。
-:::
-
-::: warning 资料范围与第三方边界
-截至 2026 年 9 月 24 日，中国大陆未列入 OpenAI 公布的 ChatGPT 支持国家和地区名单。本文根据给定资料整理，不对文中模型名称、地区可用性、域名跳转、平台能力或价格做事实性验证。LazyMan Chat 与火鸦 Chat 均为第三方平台，与 OpenAI 的关系、数据处理方式和具体可用模型请以各自当前页面、服务条款和控制台为准；它们不是 ChatGPT 官方入口。
-:::
 
 ## 一、GPT-6 Astra 最新信息：官方文档确认了什么？
 
